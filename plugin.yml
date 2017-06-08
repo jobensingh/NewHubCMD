@@ -1,0 +1,4 @@
+name: NewHubCmd
+main: me.jobisingh.jbot.hub.Main
+version: 1.0
+author: jobisingh
